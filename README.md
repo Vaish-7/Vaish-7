@@ -19,12 +19,21 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Featured Work & Projects
-My GitHub currently hosts this profile README. Below are the projects I maintain or plan to publish soon:
+### 🔝 Featured Projects
+Here are my top active repositories and recent projects:
 
 - **[Vaish-7](https://github.com/Vaish-7/Vaish-7)** — This repository contains my GitHub profile README with an overview of my skills, projects, and contact details.
-- **Planned: rag-poc** — Proof‑of‑concept for Retrieval Augmented Generation; Python, FastAPI, embeddings. (coming soon)
-- **Planned: powerbi-dashboards** — Power BI reports for tracking simple metrics. (coming soon)
+- **[flask-rest-starter](https://github.com/Vaish-7/flask-rest-starter)** — Minimal Flask REST API starter demonstrating JWT demo auth, SQLAlchemy models, Marshmallow validation, Docker, tests, and CI.  
+  **Quick run:**  
+  ```bash
+  git clone https://github.com/Vaish-7/flask-rest-starter.git
+  cd flask-rest-starter
+  cp .env.example .env
+  python -m venv .venv && source .venv/bin/activate
+  pip install -r requirements.txt
+  python -m app.main
+  # Open http://127.0.0.1:8000/
+
 
 ---
 
