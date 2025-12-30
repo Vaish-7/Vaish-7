@@ -28,8 +28,6 @@ Here are my top active repositories and recent projects:
   ```bash
   git clone https://github.com/Vaish-7/flask-rest-starter.git
   cd flask-rest-starter
-  cp .env.example .env
-  python -m venv .venv && source .venv/bin/activate
   pip install -r requirements.txt
   python -m app.main
   # Open http://127.0.0.1:8000/
